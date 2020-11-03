@@ -48,6 +48,10 @@
     'results' => 'Ergebnisse',
     'read more...' => 'weiterlesen...',
     'read more' => 'weiterlesen',
+    'created' => 'erstellt',
+    'modified' => 'bearbeitet',
+    'Toggle sidebar' => 'Seitenleiste umschalten',
+    'Home' => 'Startseite',
 
     // privacy notice
     'Accept' => 'Akzeptieren',
